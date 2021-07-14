@@ -5,31 +5,33 @@
  }
 h1 {
   text-align: center;
-	color:#000;
-	font-family: 'Raleway', sans-serif;
+  color:#000;
+  font-family: 'Raleway', sans-serif;
+  margin-top:50px;
 }
 h2 {
   background:#d3cc00;
-  padding:10px;
-  margin:0px auto;
+  padding:15px;
+  margin:20px auto;
   height:50px;
   width:150px;
   float:right;
-
   text-align:center;
   font-size:25px;
   font-family:raleway;
   font-color:white;
   border: 1px solid #000;
+  margin-right:25px;
 }
 p {
   background-color: #fff;
-  margin-top:50px;
-   font-family:raleway;
-   font-color: #fff;
-   padding:25px;
-   height:140px;
- 
+  margin-top:20px;
+  border: 1px solid #000;
+  font-family:raleway;
+  font-color: #fff;
+  padding:70px 25px 50px 25px;
+  height:275px;
+  margin-right:25px;
   }
 
 .chicken {
@@ -56,13 +58,13 @@ p {
   }
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
   float:left;
-   border: 1px solid #000;
    font-family:raleway;
    color: #000;
    font-size:20px;
-   height:200px;
+   font-size: 20px;
+    height: 300px;
    margin-bottom:20px;
-   background-color:#fff;
+   padding-left:50px;
 
   }
   .col-lg-1 {
@@ -113,6 +115,7 @@ p {
    color: #000;
    font-size:20px;
    margin-bottom:20px;
+   height:300px;
   }
   .col-md-1 {
     width: 8.33%;
@@ -154,7 +157,6 @@ p {
  
    .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
    float:left;
-   border: 1px solid #000;
    font-family:raleway;
    color: #000;
   font-size:20px;
