@@ -1,7 +1,7 @@
 * {  box-sizing: border-box;
  }
  body{
-  background:#f8f8f8;
+  background:#a6a6a6;
  }
 h1 {
   text-align: center;
@@ -11,7 +11,7 @@ h1 {
 }
 h2 {
   background:#d3cc00;
-  padding:15px;
+  padding:10px;
   margin:20px auto;
   height:50px;
   width:150px;
@@ -64,6 +64,8 @@ p {
    font-size: 20px;
     height: 300px;
    margin-bottom:20px;
+  
+
   }
   .col-lg-1 {
     width: 8.33%;
